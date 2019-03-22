@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![박충현](/_assets/img/me.jpg){: width="100" height="100"}
+![박충현](https://blanccobb.github.io/_assets/img/me.jpg){: width="77" height="77"}
 
 
 
