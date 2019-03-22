@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![박충현]({{site.url}}/_assets/img/me.jpg){: width="77" height="77"}
+![박충현]({{site.url}}/assets/img/me.jpg){: width="77" height="77"}
 
 
 
