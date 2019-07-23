@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blanccobb.github.io/sitemap.xml
