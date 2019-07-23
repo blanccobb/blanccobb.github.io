@@ -2,6 +2,9 @@
 title: ㅌㅐ그시스템 만들기
 layout: post
 tags: go new
+sitemap:
+    changefreq: daily
+    priority: 1.0
 ---
 
 test
