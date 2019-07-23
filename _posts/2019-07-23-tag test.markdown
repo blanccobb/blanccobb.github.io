@@ -1,7 +1,7 @@
 ---
 title: ㅌㅐ그시스템 만들기
 layout: post
-tags: [go]
+tags: go
 ---
 
 test
